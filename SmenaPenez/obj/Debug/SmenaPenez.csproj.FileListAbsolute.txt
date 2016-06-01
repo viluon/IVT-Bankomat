@@ -1,0 +1,12 @@
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\bin\Debug\SmenaPenez.exe.config
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\bin\Debug\SmenaPenez.exe
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\bin\Debug\SmenaPenez.pdb
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\obj\Debug\SmenaPenez.csprojResolveAssemblyReference.cache
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\obj\Debug\SmenaPenez.exe
+c:\users\kvapilo\documents\visual studio 2012\Projects\SmenaPenez\SmenaPenez\obj\Debug\SmenaPenez.pdb
+H:\work\VS\Projects\SmenaPenez\SmenaPenez\bin\Debug\SmenaPenez.exe.config
+H:\work\VS\Projects\SmenaPenez\SmenaPenez\obj\Debug\SmenaPenez.exe
+H:\work\VS\Projects\SmenaPenez\SmenaPenez\obj\Debug\SmenaPenez.pdb
+H:\work\VS\Projects\IVT-Bankomat\SmenaPenez\bin\Debug\SmenaPenez.exe.config
+H:\work\VS\Projects\IVT-Bankomat\SmenaPenez\obj\Debug\SmenaPenez.exe
+H:\work\VS\Projects\IVT-Bankomat\SmenaPenez\obj\Debug\SmenaPenez.pdb

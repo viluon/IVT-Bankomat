@@ -22,8 +22,8 @@ namespace SmenaPenez
 			int castka = int.Parse( Console.ReadLine() );
 			int index = 0;
 
-			// Iterujeme pres vsechny velikosti bankovkek, od nejvetsi k nejmensi
-			while( index < bankovky.Length )
+			// Iterujeme pres vsechny velikosti bankovkek, od nejvetsi k nejmensi, ale prestaneme v pripade, ze castka uz je na nule
+			while( index < bankovky.Length && castka > 0 )
 			{
 				// Pocet bankovek vydanych
 				int count = 0;
